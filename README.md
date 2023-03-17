@@ -46,8 +46,7 @@ google drive alternative: https://drive.google.com/file/d/1xA9zjKAg332Rc6JPWq33X
 
 OR (If you want to download over the terminal):
 
-pip install gdown
-gdown 1xA9zjKAg332Rc6JPWq33XkbzaldX2a28
+pip install gdown; gdown 1xA9zjKAg332Rc6JPWq33XkbzaldX2a28
 
 # For Linux (64 bit only):
 
